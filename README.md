@@ -1,2 +1,2 @@
 # III-nextjs
-Nextjs, typscript
+Nextjs, typescript
